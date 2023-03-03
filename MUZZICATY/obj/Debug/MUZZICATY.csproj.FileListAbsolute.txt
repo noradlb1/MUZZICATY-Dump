@@ -1,0 +1,2 @@
+C:\Users\MONSTERMC\Desktop\123\MUZZICATY\obj\Debug\MUZZICATY.csproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Desktop\123\MUZZICATY\obj\Debug\MUZZICATY.csproj.CoreCompileInputs.cache
